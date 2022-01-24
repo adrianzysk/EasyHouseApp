@@ -2,7 +2,7 @@
 
 Application created to imitate devices connected to server by using websockets. Frontend is written by using React. Server is created on node with Apollo and PostgreSQL database. App use GraphQl as API.
 
-# Installation
+### Installation
 
 App needs node and postgresSQL. Create database and configure server/config/database.js:
 
